@@ -13,6 +13,7 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 ### What steps you have to follow??
 - Download my Repository 
 - Create a `TrainingImage` folder in a project.
+- Create a `TrainingImageLabel` folder in a project.
 - Open a `AMS_Run.py` and change the all paths with your system path
 - Run `AMS_Run.py`.
 
